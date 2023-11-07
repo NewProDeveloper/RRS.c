@@ -202,6 +202,7 @@ void main()
     srand(0);
     int Number_Of_Processes;
     int Time_Quant = 2; // in milliseconds (ms)
+                        // Can be made user accesible/input
 
     printf("\n--------------------------- Welcome to Round Robin Scheduling Program -----------------------\n");
     printf("\nEnter number of processes to execute: ");
